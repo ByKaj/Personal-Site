@@ -1,0 +1,4 @@
+baseURL = "https://kaj.me"
+languageCode = "en-us"
+title = "Kaj"
+theme = "terminal"

@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Kaj | Staging"
 theme = "terminal"
 
-paginate = 8
+paginate = 10
 
 [params]
   # dir name of your main content (default is `content/posts`).

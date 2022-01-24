@@ -5,4 +5,5 @@ theme = "mini"
 
 paginate = 10
 
-defaultContentLanguage: en
+[params]
+    defaultContentLanguage = "en"

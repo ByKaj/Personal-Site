@@ -3,10 +3,6 @@
   command = "hugo"
 
 [[redirects]]
-  from = "/*"
-  to = "/404"
-  status = 404
-
   from = "/notes/*"
   to = "notes-kaj.netlify.app/:splat"
   status = 200

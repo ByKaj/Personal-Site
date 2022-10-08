@@ -4,6 +4,4 @@
 [submodule "themes/mini"]
 	path = themes/mini
 	url = https://github.com/nodejh/hugo-theme-mini.git
-[submodule "notes"]
-	path = notes
-	url = https://github.com/ByKaj/DigitalGarden.git
+
